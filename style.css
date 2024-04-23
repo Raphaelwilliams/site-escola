@@ -4,4 +4,12 @@ header{
 }
 .cabeçalho-imagem{
     width: 20% 
+header{
+    background-color: #383d58;
+    color: white; 
 }
+cabeçalho{
+    background-color #3835d58
+    color; white
+    dispĺay: flex
+    justify-content:space around;
