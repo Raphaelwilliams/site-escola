@@ -12,4 +12,6 @@ cabeçalho{
     background-color #3835d58
     color; white
     dispĺay: flex
-    justify-content:space around;
+    justify-content:space around
+    align-items: center
+    padding: 24px 0;
