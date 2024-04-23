@@ -15,3 +15,12 @@ cabeçalho{
     justify-content:space around
     align-items: center
     padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width:20%;
+}
+.cabeçalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+front-size: 24px;
